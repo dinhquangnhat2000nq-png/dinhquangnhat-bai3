@@ -1,0 +1,16 @@
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\bin\Debug\net10.0-windows\bài 3 8-10.exe
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\bin\Debug\net10.0-windows\bài 3 8-10.deps.json
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\bin\Debug\net10.0-windows\bài 3 8-10.runtimeconfig.json
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\bin\Debug\net10.0-windows\bài 3 8-10.dll
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\bin\Debug\net10.0-windows\bài 3 8-10.pdb
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài_3_8_10.Form1.resources
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.csproj.GenerateResource.cache
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.AssemblyInfoInputs.cache
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.AssemblyInfo.cs
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.dll
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\refint\bài 3 8-10.dll
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.pdb
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\bài 3 8-10.genruntimeconfig.cache
+C:\Users\Quang Nhat\source\repos\bài 3 8-10\bài 3 8-10\obj\Debug\net10.0-windows\ref\bài 3 8-10.dll
